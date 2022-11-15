@@ -38,6 +38,7 @@
     "@backstage/plugin-search-backend-node": "^1.0.3",
     "@backstage/plugin-techdocs-backend": "^1.4.0",
     "@internal/backstage-plugin-rhacm-backend": "*",
+    "@internal/plugin-web-terminal-backend": "^0.1.0",
     "app": "link:../app",
     "dockerode": "^3.3.1",
     "express": "^4.17.1",
